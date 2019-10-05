@@ -1,0 +1,70 @@
+#######################################
+# Syntax Coloring Map For Arduino GLCD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OCMA	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+background	KEYWORD2
+stroke	KEYWORD2
+textSize	KEYWORD2
+textMode	KEYWORD2
+setCursor	KEYWORD2
+print	KEYWORD2
+clearScreen	KEYWORD2
+drawPixel	KEYWORD2
+drawPixels	KEYWORD2
+drawLine	KEYWORD2
+drawLines	KEYWORD2
+drawRect	KEYWORD2
+fillRect	KEYWORD2
+drawCircle	KEYWORD2
+fillCircle	KEYWORD2
+drawTriangle	KEYWORD2
+fillTriangle	KEYWORD2
+drawElipse	KEYWORD2
+fillElipse	KEYWORD2
+drawRoundRect	KEYWORD2
+fillRoundRect	KEYWORD2
+calibrateTouchPanel	KEYWORD2
+touchMode	KEYWORD2
+touchRead	KEYWORD2
+isTouched	KEYWORD2
+touchX	KEYWORD2
+touchY	KEYWORD2
+setWriteLayer	KEYWORD2
+setDisplayLayer	KEYWORD2
+setLayerTransparency	KEYWORD2
+setFilteredDisplayLayer	KEYWORD2
+fadeLayers	KEYWORD2
+drawImg	KEYWORD2
+saveScreen	KEYWORD2
+drawCroppedImage	KEYWORD2
+brightness	KEYWORD2
+setScanMode	KEYWORD2
+showBaud	KEYWORD2
+drawPoligon	KEYWORD2
+drawSemiElipse	KEYWORD2
+fillSemiElipse	KEYWORD2
+lastTouched	KEYWORD2
+lastReleased	KEYWORD2
+color	KEYWORD2
+touchPX	KEYWORD2
+touchPY	KEYWORD2
+touchRX	KEYWORD2
+touchRY	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
